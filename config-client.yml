@@ -1,4 +1,4 @@
-sb:
+info:
   profile: default
   from: git122 
 test: bbb
